@@ -13,4 +13,4 @@ https://github.com/webiest/mod_otr/
 
 Why use Python as body parser? 
 First of all my Erlang sucks. 
-Also Erlang itself sucks(espcecially syntax, holy sh*t), it is easier to write complex parsers with Python.
+Also Erlang itself sucks(especially the syntax), it is easier to write complex parsers with Python.
